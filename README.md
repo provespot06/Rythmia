@@ -17,5 +17,5 @@ Your personal ChatBot.
 
 ## How to run this ChatBot -- Tutorial
 
-   - Download codes from repo
+   - Download codes from repo.
    - Run home.html in your browser.
